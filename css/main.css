@@ -2474,6 +2474,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 }
 
+.img {
+  max-width: 100%;
+  height: auto;
+  width: auto\9; /* ie8 */
+}
+
 .banner-right {
   text-align: center;
 
